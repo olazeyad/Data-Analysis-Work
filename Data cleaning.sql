@@ -1,6 +1,7 @@
 /*
 
 Cleaning Data in SQL Queries
+Tableau link: https://public.tableau.com/app/profile/ola.zeyad/viz/AirbnbListings2016_16840811989420/Dashboard1
 
 */
 
