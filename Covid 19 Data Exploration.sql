@@ -3,6 +3,8 @@ Covid 19 Data Exploration in 2023
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
+Tableau link: https://public.tableau.com/app/profile/ola.zeyad/viz/Covid2019summary2023/Dashboard1
+
 *********************************************************************************************************************/
 
 Select *
